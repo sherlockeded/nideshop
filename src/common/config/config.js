@@ -2,7 +2,7 @@
 module.exports = {
   default_module: 'api',
   weixin: {
-    appid: '', // 小程序 appid
+    appid: 'wxfeb76c7ab76f62e9', // 小程序 appid
     secret: '', // 小程序密钥
     mch_id: '', // 商户帐号ID
     partner_key: '', // 微信支付密钥

@@ -9,6 +9,7 @@
     "lint-fix": "eslint --fix src/"
   },
   "dependencies": {
+    "ajv": "^5.5.2",
     "gm": "^1.23.0",
     "jsonwebtoken": "^8.0.0",
     "kcors": "^2.2.1",
